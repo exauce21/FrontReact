@@ -235,7 +235,7 @@ const ProduitsPage = () => {
                 <button type="button"
                 className="btn btn-success"
                 onClick={() => createClick()}
-                >Créer</button>
+                >Modifier</button>
                 :
                 <button type="button"
                 className="btn btn-primary float-start"
